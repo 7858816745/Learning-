@@ -15,7 +15,7 @@ class car{
 public class oop{
     public static void main(String[] args){
         car c1 = new car();
-        c1.company="bmw";
+        c1.company="audi";
         c1.color="black";
         c1.topSpeed=100;
         c1.drive();
