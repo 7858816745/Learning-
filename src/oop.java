@@ -17,7 +17,7 @@ public class oop{
         car c1 = new car();
         c1.company="Tesla";
         c1.color="Gray";
-        c1.topSpeed=100;
+        c1.topSpeed=300;
         c1.drive();
         c1.printColor();
     }
